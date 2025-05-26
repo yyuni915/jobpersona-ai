@@ -1,0 +1,26 @@
+{
+  "question_index": 0,
+  "question": "Tell me about yourself and background.",
+  "industry": ["Software"],
+  "position": "Backend Developer",
+  "jd_soft_traits_nonverbal_top5": [
+  "confidence",
+  "calmness",
+  "empathy",
+  "passion",
+  "humility"
+],
+  "jd_soft_traits_nonverbal": [
+  "confidence",
+  "calmness",
+  "empathy",
+  "passion",
+  "humility",
+  "assertiveness",
+  "warmth",
+  "nervousness",
+  "enthusiasm"
+],
+  "jd_job_skills_list": ["Python", "Docker", "AWS", "PostgreSQL", "CI/CD"],
+  "finished": false
+}

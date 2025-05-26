@@ -11,7 +11,7 @@ api_key = os.getenv("OPENAI_API_KEY")
 
 client = OpenAI(api_key=api_key)
 
-def extract_keywords_from_jd_resume_gpt(jd_text: str, resume_text: str) -> dict:
+def generate_interview_prep_from_jd_resume(jd_text: str, resume_text: str) -> dict:
     prompt = f"""
                 You are an expert interview analyst AI.
 
